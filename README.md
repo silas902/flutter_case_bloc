@@ -8,6 +8,8 @@ Esta prueba tecnica fue desarrollada con Flutter 3.13. y Dart 3.1.0
 Este projeto faz parte do teste técnico como desenvolvedor Flutter na Accentio Studios
 Este teste técnico foi desenvolvido com Flutter 3.13. e Dart 3.1.0
 
+![Screen](assets/cep_gif.gif)
+
 ## Requisitos
 **ES**:
 En este proyecto te vas a encontrar con una aplicacion basica para busqueda de CEP en Brasil. La aplicacion funciona actualmente,
@@ -29,7 +31,7 @@ trocando entre um e outro.
 **ES**:
 ### To-do:
 - [ ] Utiliza el archivo home_page_bloc.dart para crear tu view que va a consumir tu BLoC.
-- [ ] Utiliza el archivo search_cep_bloc.dart como base para crear tu BLoC (SIN USAR LA LIBRERIA flutter_bloc).
+- [ ] Utiliza el archivo ```search_cep_bloc.dart``` como base para crear tu BLoC (SIN USAR LA LIBRERIA flutter_bloc).
 - [ ] Crea todos los estados y eventos necesarios para que la aplicacion funcione correctamente.
 - [ ] Testea la aplicacion usando el BLoC.
 - [ ] Ahora crea una segunda alternativa usando la libreria flutter_bloc para crear tu BLoC en el archivo search_cep_flutter_bloc.dart.
@@ -41,7 +43,7 @@ trocando entre um e outro.
 **PT**:
 ### To-do:
 - [ ] Utilize o arquivo home_page_bloc.dart para criar sua view que consumirá seu BLoC.
-- [ ] Utilize o arquivo search_cep_bloc.dart como base para criar seu BLoC (SEM USAR A BIBLIOTECA flutter_bloc).
+- [ ] Utilize o arquivo ```search_cep_bloc.dart``` como base para criar seu BLoC (SEM USAR A BIBLIOTECA flutter_bloc).
 - [ ] Cria todos os estados e eventos necessários para que a aplicação funcione corretamente.
 - [ ] Teste a aplicação usando BLoC.
 - [ ] Agora crie uma segunda alternativa utilizando a biblioteca flutter_bloc para criar seu BLoC no arquivo search_cep_flutter_bloc.dart.
