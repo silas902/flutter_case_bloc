@@ -3,6 +3,7 @@
 ES:
 Este proyecto es parte de la prueba tecnica como desarrollador Flutter en Accentio Studios
 Esta prueba tecnica fue desarrollada con Flutter 3.13. y Dart 3.1.0
+
 PT:
 Este projeto faz parte do teste técnico como desenvolvedor Flutter na Accentio Studios
 Este teste técnico foi desenvolvido com Flutter 3.13. e Dart 3.1.0
@@ -52,5 +53,6 @@ PT:
 ## Como entregar la prueba / Como entregar o teste
 ES:
 Debes hacer un fork de este repositorio y crear un nuevo branch con tu nombre y apellido. Despues de hacer los cambios para solucionar la prueba debes hacer un pull request a este repositorio con los cambios realizados. Debes usar Conventional Commits para los mensajes de los commits.
+
 PT:
 Você deve fazer um fork este repositório e criar um novo branch com seu nome e sobrenome. Após realizar as alterações para resolver o teste você deve fazer um pull request para este repositório com as alterações realizadas. Você deve usar Conventional Commits para mensagens de commit.
