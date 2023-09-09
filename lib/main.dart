@@ -1,6 +1,3 @@
-
-
-import 'package:bloc_flutter/blocs/flutter_bloc/search_cep_flutter_bloc.dart';
 import 'package:bloc_flutter/repository.dart';
 import 'package:flutter/material.dart';
 import 'blocs/bloc/search_cep_bloc.dart';
